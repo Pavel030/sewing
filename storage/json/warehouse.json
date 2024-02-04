@@ -1,0 +1,8 @@
+[
+    {"material_id": 1, "remain": 12, "price": 1500},
+    {"material_id": 2, "remain": 200, "price": 1600},
+    {"material_id": 3, "remain": 40, "price": 500},
+    {"material_id": 3, "remain": 300, "price": 550},
+    {"material_id": 4, "remain": 500, "price": 300},
+    {"material_id": 5, "remain": 1000, "price": 2000}
+]

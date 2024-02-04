@@ -1,0 +1,8 @@
+[
+    {"id": 1, "material_code": "fb0001", "material_type": "fabric"},
+    {"id": 2, "material_code": "fb0002","material_type": "fabric"},
+    {"id": 3, "material_code": "thr0002","material_type": "thread"},
+    {"id": 4, "material_code": "btn0001","material_type": "button"},
+    {"id": 5, "material_code": "lock0001","material_type": "lock"}
+]
+
