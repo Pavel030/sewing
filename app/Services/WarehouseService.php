@@ -30,10 +30,10 @@ class WarehouseService
      * @param int $quantity
      * @return $this
      */
-    public function spendOnProduct(int $productId, int $quantity): self
+    public function spendOnProduct(int $product_id, int $quantity): self
     {
-        $productSpend = $this->getSpend($productId, $quantity);
-        $this->warehouse = $this->getRemain($this->warehouse, $productSpend);
+        $product_spend = $this->getSpend($product_id, $quantity);
+        $this->warehouse = $this->getRemain($this->warehouse, $product_spend);
         return $this;
     }
 
